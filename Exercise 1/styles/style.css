@@ -1,0 +1,44 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+html {
+    background-color: #005390;
+}
+
+body {
+    color: #DDDDDD;
+    background-color: #005390";
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 10px 0; 
+    color: #DDDDDD;
+    text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+    color: #DDDDDD;
+    text-shadow: 1px 2px 1px black;
+}
+
+table {
+    border: 0px;
+    background: linear-gradient(rgba(0,0,0,1), rgba(255,0,0,1));
+    width: 100%;
+    margin: 0;
+}
+
+tr {
+    border: 0px;
+    background: transparent;
+    height: 10px;
+}
+
+td {
+    border: 0px;
+    background: transparent;
+}
